@@ -1,0 +1,16 @@
+{
+  "name": "type-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d type-script "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://UzairAjml.github.io/type-script",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
